@@ -75,7 +75,7 @@ const perguntas = [
 
 let atual = 0;
 let perguntaAtual;
-let resultadofinal = " ";
+let resultadofinal= " ";
 
 function mostraPergunta() {
     if (atual >= perguntas.length) {
